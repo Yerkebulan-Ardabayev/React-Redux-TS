@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.indent {
+  padding-left: 20px;
+}
+
+.supMain {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  color: rgb(10, 153, 189);
+}
+
+.color {
+  color: rgb(10, 189, 102);
+}

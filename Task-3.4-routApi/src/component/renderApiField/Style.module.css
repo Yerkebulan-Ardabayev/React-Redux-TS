@@ -1,0 +1,35 @@
+.title_post li {
+  list-style: none;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  border: solid 2px #d0d0d0;
+  background-color: chocolate;
+  border-radius: 0.2em;
+  padding: 0.5em 0.8em 0.5em 0.5em;
+  margin-bottom: 1em;
+}
+
+.title_todo li {
+  list-style: none;
+  flex-direction: column;
+  background-color: rgb(66, 250, 10);
+  display: flex;
+  align-items: center;
+  border: solid 2px #d0d0d0;
+  border-radius: 0.2em;
+  padding: 0.5em 0.8em 0.5em 0.5em;
+  margin-bottom: 1em;
+}
+
+.title_user li {
+  list-style: none;
+  flex-direction: column;
+  background-color: cadetblue;
+  display: flex;
+  align-items: center;
+  border: solid 2px #d0d0d0;
+  border-radius: 0.2em;
+  padding: 0.5em 0.8em 0.5em 0.5em;
+  margin-bottom: 1em;
+}

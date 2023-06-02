@@ -1,0 +1,24 @@
+body{
+    background:url(../../assets/ayHEpu4G.jpg)  no-repeat center center;
+    height: 100vh;
+}
+.containerForFunction{
+    width: 500px;
+    margin-left: 150px;
+    color: #52d117;
+    background-color: #e9ec0f;
+}
+
+.containerForClass{
+    width: 500px;
+    margin-left: 150px;
+    color: #00ff95;
+    margin-top: 50px;
+    background-color: #0f25ec;
+}
+
+.hollyday{
+    padding-top: 50px;
+    padding-left: 250px;
+    color:rgb(240, 0, 0);
+}

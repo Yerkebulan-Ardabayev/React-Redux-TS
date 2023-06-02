@@ -1,0 +1,40 @@
+.main {
+  width: 350px;
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  list-style-type: none;
+}
+
+.title {
+  color: #0637eb;
+  font-size: 20px;
+}
+
+.title_t {
+  color: #d1c214;
+  font-size: 20px;
+}
+
+.link {
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.button {
+  width: 100px;
+  margin: 5px;
+  color: #00df38;
+  background-color: #df0000;
+  border-radius: 5px;
+}
